@@ -1,9 +1,9 @@
 # Joy Industrial
 
-## News
+## 📢 News
 
-- **Dataset release — RealCADBench-V1.0:** We have released RealCADBench, a benchmark for parametric CAD modeling from real industrial design intents, covering multimodal inputs and both part and assembly modeling. Explore the dataset and our evaluation leaderboards. [Dataset](https://huggingface.co/datasets/RealCADBench/RealCADBench-V1.0) · [GitHub & Leaderboards](https://github.com/joyindustrial/RealCADBench#leaderboards) · [Paper](https://arxiv.org/abs/2609.03773)
-- **Model release — JDI-Decision-V1:** We have released JDI-Decision-V1, a multimodal decision system that produces structured choices and probabilities from text and images. Model weights, inference resources, and reproduction instructions are available on Hugging Face. [Model](https://huggingface.co/JoyIndustrial/JDI-Decision-V1) · [GitHub](https://github.com/joyindustrial/JDI-Decision-V1)
+- **[2026-11-10] 📊 Dataset release — RealCADBench-V1.0:** We have released RealCADBench, a benchmark for parametric CAD modeling from real industrial design intents, covering multimodal inputs and both part and assembly modeling. Explore the dataset and our evaluation leaderboards. [Dataset](https://huggingface.co/datasets/RealCADBench/RealCADBench-V1.0) · [GitHub & Leaderboards](https://github.com/joyindustrial/RealCADBench#leaderboards) · [Paper](https://arxiv.org/abs/2609.03773)
+- **[2026-11-10] 🤖 Model release — JDI-Decision-V1:** We have released JDI-Decision-V1, a multimodal decision system that produces structured choices and probabilities from text and images. Model weights, inference resources, and reproduction instructions are available on Hugging Face. [Model](https://huggingface.co/JoyIndustrial/JDI-Decision-V1) · [GitHub](https://github.com/joyindustrial/JDI-Decision-V1)
 
 ## About Us
 
