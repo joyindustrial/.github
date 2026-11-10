@@ -1,5 +1,12 @@
 # Joy Industrial
 
+## News
+
+- **Dataset release — RealCADBench-V1.0:** We have released RealCADBench, a benchmark for parametric CAD modeling from real industrial design intents, covering multimodal inputs and both part and assembly modeling. Explore the dataset and our evaluation leaderboards. [Dataset](https://huggingface.co/datasets/RealCADBench/RealCADBench-V1.0) · [GitHub & Leaderboards](https://github.com/joyindustrial/RealCADBench#leaderboards) · [Paper](https://arxiv.org/abs/2609.03773)
+- **Model release — JDI-Decision-V1:** We have released JDI-Decision-V1, a multimodal decision system that produces structured choices and probabilities from text and images. Model weights, inference resources, and reproduction instructions are available on Hugging Face. [Model](https://huggingface.co/JoyIndustrial/JDI-Decision-V1) · [GitHub](https://github.com/joyindustrial/JDI-Decision-V1)
+
+## About Us
+
 We are the Foundation Model Team at JD Industrial. We develop industrial foundation models that connect multimodal understanding and reasoning with engineering design and real supply chain workflows. Our goal is to make AI capable of solving industrial problems, with the domain knowledge and practical capabilities these tasks require.
 
 Our work contributes to JoyIndustrial, JD Industrial’s industrial AI model family. Drawing on industrial data and feedback from real applications, we advance model architectures, reinforcement learning, and continual learning to improve how models understand industrial information and carry out complex tasks.
